@@ -1,4 +1,4 @@
-import { fibRow } from "../src/task7.js";
+import { fibRow } from "../js/modules/task7.js";
 
 export function testFibRow(assert) {
     describe("Числа Фибоначи", () => {

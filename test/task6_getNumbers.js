@@ -1,4 +1,4 @@
-import { getNumbers } from "../src/task6.js";
+import { getNumbers } from "../js/modules/task6.js";
 
 export function testGetNumbers(assert) {
     describe("Тест числовой последовательности", () => {

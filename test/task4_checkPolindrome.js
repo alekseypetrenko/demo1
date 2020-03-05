@@ -1,4 +1,4 @@
-import { checkPolindrome } from "../src/task4.js";
+import { checkPolindrome } from "../js/modules/task4.js";
 
 export function testCheckPolindrome(assert) {
     describe("Является ли число палиндромом", () => {

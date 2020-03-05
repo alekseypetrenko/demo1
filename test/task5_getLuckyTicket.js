@@ -1,4 +1,4 @@
-import { getLuckyTicket } from "../src/task5.js";
+import { getLuckyTicket } from "../js/modules/task5.js";
 
 export function testGetLuckyTicket(assert) {
     describe("Счастливые билеты", () => {

@@ -1,4 +1,4 @@
-import { rectangleInRectangle } from "../src/task2.js";
+import { rectangleInRectangle } from "../js/modules/task2.js";
 
 export function testRectangleInRectangle(assert) {
     describe("Конверт и открытка", () => {

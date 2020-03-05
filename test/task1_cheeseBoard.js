@@ -1,4 +1,4 @@
-import { createCheeseBoard } from "../src/task1.js";
+import { createCheeseBoard } from "../js/modules/task1.js";
 
 export function testCreateCheeseBoard(assert) {
     describe("Тест шахматной доски", () => {

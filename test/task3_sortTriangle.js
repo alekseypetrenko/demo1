@@ -1,4 +1,4 @@
-import { sortTriangle } from "../src/task3.js";
+import { sortTriangle } from "../js/modules/task3.js";
 
 export function testSortTriangle(assert) {
     describe("Сортировка треугольников", () => {
